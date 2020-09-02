@@ -1,7 +1,7 @@
 # awesome-art-text
 🌈 Collect beautiful art text. 收集好看的艺术代码。
 
-## ✨ Contents
+## Contents
 
   * [Text](#text)
     * [Never give up](#never-give-up)
