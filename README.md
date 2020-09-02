@@ -2,8 +2,9 @@
 🌈 Collect beautiful art text, never bug. 收集好看的艺术代码，永无 Bug。
 
 ## 🍭 说明
-- From anywhere.
-- 欢迎补充, 欢迎 PR。
+- From anywhere
+- 欢迎补充, 欢迎 PR
+- 欢迎 Star, 欢迎 Fork
 
 ## 目录
 
