@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/forks/awesome-magic/awesome-art-text?color=%23ff85c0&style=flat-square)
 ![](http://hits.dwyl.com/awesome-magic/awesome-art-text.svg)
 ![](https://img.shields.io/github/issues-pr-raw/awesome-magic/awesome-art-text?color=%23d4380d&style=flat-square)
-![](https://img.shields.io/github/last-commit/awesome-magic/awesome-art-text/main?color=%23389e0d&style=flat-square)
+![](https://img.shields.io/github/last-commit/awesome-magic/awesome-art-text/master?color=orange&style=flat-square)
 ![](https://img.shields.io/github/license/awesome-magic/awesome-art-text?color=%23096dd9&style=flat-square)
 
 ## 🍭 说明
