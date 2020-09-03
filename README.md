@@ -1,6 +1,13 @@
 # awesome-art-text
 🌈 Collect beautiful art text, never bug. 收集好看的艺术代码，永无 Bug。
 
+![](https://img.shields.io/github/stars/awesome-magic/awesome-art-text?color=%23d4b106&style=flat-square)
+![](https://img.shields.io/github/forks/awesome-magic/awesome-art-text?color=%23ff85c0&style=flat-square)
+![](http://hits.dwyl.com/awesome-magic/awesome-art-text.svg)
+![](https://img.shields.io/github/issues-pr-raw/awesome-magic/awesome-art-text?color=%23d4380d&style=flat-square)
+![](https://img.shields.io/github/last-commit/awesome-magic/awesome-art-text/main?color=%23389e0d&style=flat-square)
+![](https://img.shields.io/github/license/awesome-magic/awesome-art-text?color=%23096dd9&style=flat-square)
+
 ## 🍭 说明
 - From anywhere
 - 欢迎补充, 欢迎 PR
@@ -13,8 +20,10 @@
     * [顶](#顶)
   * [人物](#人物)
     * [佛祖保佑永无BUG](#佛祖保佑永无bug)
-    * [Beautiful girl](#beautiful-girl)
+    * [girl](#girl)
     * [初音](#初音)
+    * [比克大魔王](#比克大魔王)
+    * [七龙珠悟空](#七龙珠悟空)
   * [动物](#动物)
     * [皮卡丘](#皮卡丘)
     * [神兽](#神兽)
@@ -22,11 +31,15 @@
     * [鼠](#鼠)
     * [猪](#猪)
     * [狮](#狮)
+    * [马](#马)
+    * [狗](#狗)
   * [生活](#生活)
     * [计算机](#计算机)
     * [打开的书](#打开的书)
     * [键盘](#键盘)
     * [剪刀手](#剪刀手)
+    * [Windows](#windows)
+    * [五环](#五环)
   * [好玩](#好玩)
     * [狗头](#狗头)
     * [笑脸](#笑脸)
@@ -136,7 +149,7 @@
 
 ---
 
-#### Beautiful girl
+#### girl
 ```
         ´´´´´´´´██´´´´´´´
         ´´´´´´´████´´´´´´
@@ -197,6 +210,42 @@
 //    ````':.          ':::::::::'                  ::::..
 //                       '.:::::'                    ':'````..
 //
+
+/***
+ *                   /88888888888888888888888888\
+ *                   |88888888888888888888888888/
+ *                    |~~____~~~~~~~~~"""""""""|
+ *                   / \_________/"""""""""""""\
+ *                  /  |              \         \
+ *                 /   |  88    88     \         \
+ *                /    |  88    88      \         \
+ *               /    /                  \        |
+ *              /     |   ________        \       |
+ *              \     |   \______/        /       |
+ *   /"\         \     \____________     /        |
+ *   | |__________\_        |  |        /        /
+ * /""""\           \_------'  '-------/       --
+ * \____/,___________\                 -------/
+ * ------*            |                    \
+ *   ||               |                     \
+ *   ||               |                 ^    \
+ *   ||               |                | \    \
+ *   ||               |                |  \    \
+ *   ||               |                |   \    \
+ *   \|              /                /"""\/    /
+ *      -------------                |    |    /
+ *      |\--_                        \____/___/
+ *      |   |\-_                       |
+ *      |   |   \_                     |
+ *      |   |     \                    |
+ *      |   |      \_                  |
+ *      |   |        ----___           |
+ *      |   |               \----------|
+ *      /   |                     |     ----------""\
+ * /"\--"--_|                     |               |  \
+ * |_______/                      \______________/    )
+ *                                               \___/
+ */
 ```
 - [回到目录](#目录)
 
@@ -234,6 +283,200 @@
 
 ---
 
+#### 比克大魔王
+```
+                _.---..._
+            ./^         ^-._
+          ./^C===.         ^\.   /\
+         .|'     \\        _ ^|.^.|
+    ___.--'_     ( )  .      ./ /||
+   /.---^T\      ,     |     / /|||
+  C'   ._`|  ._ /  __,-/    / /-,||
+       \ \/    ;  /O  / _    |) )|,
+        i \./^O\./_,-^/^    ,;-^,'
+         \ |`--/ ..-^^      |_-^
+          `|  \^-           /|:
+           i.  .--         / '|.
+            i   =='       /'  |\._
+          _./`._        //    |.  ^-ooo.._
+   _.oo../'  |  ^-.__./X/   . `|    |#######b
+  d####     |'      ^^^^   /   |    _\#######
+  #####b ^^^^^^^^--. ...--^--^^^^^^^_.d######
+  ######b._         Y            _.d#########
+  ##########b._     |        _.d#############
+```
+- [回到目录](#目录)
+
+---
+
+#### 七龙珠悟空
+```
+                            _
+                            \"-._ _.--"~~"--._
+                             \   "            ^.    ___
+                             /                  \.-~_.-~
+                      .-----'     /\/"\ /~-._      /
+                     /  __      _/\-.__\L_.-/\     "-.
+                    /.-"  \    ( ` \_o>"<o_/  \  .--._\
+                   /'      \    \:     "     :/_/     "`
+                           /  /\ "\    ~    /~"
+                           \ I  \/]"-._ _.-"[
+                        ___ \|___/ ./    l   \___   ___
+                   .--v~   "v` ( `-.__   __.-' ) ~v"   ~v--.
+                .-{   |     :   \_    "~"    _/   :     |   }-.
+               /   \  |           ~-.,___,.-~           |  /   \
+              ]     \ |                                 | /     [
+              /\     \|     :                     :     |/     /\
+             /  ^._  _K.___,^                     ^.___,K_  _.^  \
+            /   /  "~/  "\                           /"  \~"  \   \
+           /   /    /     \ _          :          _ /     \    \   \
+         .^--./    /       Y___________l___________Y       \    \.--^.
+         [    \   /        |        [/    ]        |        \   /    ]
+         |     "v"         l________[____/]________j  -Row   }r"     /
+         }------t          /                       \       /`-.     /
+         |      |         Y                         Y     /    "-._/
+         }-----v'         |         :               |     7-.     /
+         |   |_|          |         l               |    / . "-._/
+         l  .[_]          :          \              :  r[]/_.  /
+          \_____]                     "--.             "-.____/
+
+<!-- ############################################################ -->
+
+                                MMMMM
+                                  MMMMMM
+                                    MMMMMMM
+                                     MMMMMMMM     .
+                                      MMMMMMMMM
+                                      HMMMMMMMMMM
+                                       MMMMMMMMMMMM  M
+                                       MMMMMMMMMMMMM  M
+                                        MMMMMMMMMMMMM  M
+                                        MMMMMMMMMMMMM:
+                                        oMMMMMMMMMMMMMM
+              .MMMMMMMMMMMMMMo           MMMMMMMMMMMMMMM M
+        MMMMMMMMMMMMMMMMMMMMMMMMMMM      MMMMMMMMMMMMMMMM
+          MMMMMMMMMMMMMMMMMMMMMMMMMMMM.  oMMMMMMMMMMMMMMM.M
+            MMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMMMMMMMMMMMMMMM
+              MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                     H
+                     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                  .         MMM
+                      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM              M       MMMMMM
+                       .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM          M   MMMMMMMMMM
+                MM.      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM       M MMMMMMMMMMMM
+                    MM    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM    .MMMMMMMMMMMMMM
+                      MM  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                        MM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+               .MMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMM.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                  HMMMMMMMMMMMMMMMMMMMMM.MMMMMMMMM.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                     MMMMMMMMMMMMMMM MMM.oMMMMMMM..MMMMMMMMM:MMMMMMMMMMMMMMMMMMMMMMM
+                       MMMMMMMMMMMMMM MM..MMMMMMM...MMMMMMM. MMMMMMMMMMMMMMMMMMMMM
+                         MMMMMMMMMMMMMMM ..MMMMMM...MMMMMM ..MMMMMMMMMMMMMMMMMMM
+                          MMMMMMM:M.MMM.M.. MMMMM M..MMMMM...MMMMMMMMMMMMMMMMMM  MMM
+                            MMMM. .M..MM.M...MMMMMM..MMMMM.. MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .
+                             MMMM..M....M.....:MMM .MMMMMM..MMMMMMM...MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                              MMM.M.. ...M......MM.MMMMM.......MHM.M  .MMMMMMMMMMMMMMMMMMMMMMMMM
+                         MMMMMMMM..MM. . MMM.....MMMMMM.M.....M ..MM..M MMMMMMMMMMMMMMMMMMM
+                            .MMMMMHMM. ..MMMM. MMM............o..... . .MMMMMMMMMMMMMMM
+                               MMM. M... .........................M..:.MMMMMMMMMMMM
+                                 oMMM............ .................M.M.MMMMMMMMM
+                                    .....MM........................ . MMMMMM
+                                   M.....M.....................o.MM.MMMMMMMM.
+                                    M........................M.. ...MMMMMMMMMMMMMo
+                                      :....MMM..............MMM..oMMMMMMM
+                                       M...MMM.............MMMMMMM
+                                          .............:MMMMMMMM
+                                          M..... MMM.....M
+                                          M M.............
+                                          ................M
+                                       ooM.................MM  MoMMMMMoooM
+                                  MMoooM......................MoooooooH..oMM
+                              MHooooMoM.....................MMooooooM........M
+                            oooooooMoooM......... o........MoooooooM............
+                            Mooooooooooo.......M.........Moooooooo:..............M
+                           MooMoooooooooM...M........:Mooooooooooo:..............M
+                          M..oooooooooooo .........Mooooooooooooooo..............M
+                         M...Mooo:oooooooo.M....ooooooooooooooooooo..M...........M
+                          ...oooooMoooooooM..Mooooooooooooo:oooooooM.M...........M.
+                         M...ooooooMoo:ooooMoooooooooooooHoooooooooH:M. ...........:
+                         M..MoooooooMoooooooooooooooooo:ooooooMooooMoM..............M
+                         M..ooooooooooMooooooooooooooHoooooooMooHooooM...............M
+                         ...ooooooooooooooooooo:MooooooooooooooMoMoooM................
+                        M...oooooooooooooooooooooooooooooooooooooMooMM................M
+                        ...MooooooooooooooooooooooooooooooooooooooooMo ................
+                        ...MooooooooooooooooooooooooooooooooooooooooM M................M
+                       M...ooooooooooooooooooooooooooooooooooooooooM   ................M
+                       ...MoooooooooooooooooooooooooooooooooooooooMM   .:...............
+                       .....MooooooooooooooooooooooooooooooooooooMoo       .............M
+                       M...... ooooooooooooooooooooooooooooooooooooM       M..............M
+                       M........MooooMMM MM MM  MMMMMMMMMooooooooM         M...............M
+                       .........HM     M:  MM :MMMMMM          M           M...............
+                      M..........M     M   MoM M                           M................M
+                      M.........:M  MoH  M M M MooooHoooMM.   M             M...............M
+                      M..........Moooo MMooM    oooooMooooooooM              M..............H
+                      M.........MooooM  Mooo  : ooooooMooooMoooM              M........ . .o.M
+                      H..  .....ooooo   oooo  M MooooooooooooooM               M... MMMMMMMMMMM
+                      MMMMMMMMMMooooM M oooo  .  ooooooMooooooooM              .MMMMMMMMMMMMMMM
+                      MMMMMMMMMMooooH : ooooH    oooooooooooooooo               MMMMMMMMMMMMMMM
+                      MMMMMMMMMMoooo    ooooM    Moooooooooooooooo              .MMMMMMMMMMMMMMM
+                      MMMMMMMMMMoooo    ooooM    MooooooooooooooooM              MMMMMMMMMMMMMMM
+                      MMMMMMMMMMoooM    ooooM     ooooooooooooooooo               MMMMMMMMMMM:M
+                      MMMMMMMMMMoooM   MooooM     oooooooooooMoooooo               MH...........
+                       . ......Mooo.   MooooM     oooooooooooooooooo              M............M
+                      M.M......oooo    MooooM     Moooooooooooooooooo:           .........M.....
+                      M.M.....Moooo    MooooM      ooooooooooooooooooM            .M............
+                      .......MooooH    MooooM      oooooooooMoooooooooo          M..o...M..o....M
+                      .o....HMooooM    MooooH      MooooooooMooooooooooM          .:M...M.......M
+                     M..M.....MoooM    :oooo:    .MooooooooHooMoooooooooM         M M... ..oM.M
+                      M...M.:.Mooo. MMMMooooo   oooooooooooMoooooooooooooM          ....M. M
+                       M:M..o.Moooooooooooooo MooooooooooooooMooooooooooooM          .Mo
+                              MooooooooooooooMooooooooooooMoMoooooooooooooo
+                              Mooooooooooooooo:ooooooooooooooooooooooooooooo
+                              ooooooooooooooooMooooooooooMoooooooooooooooooo
+                              ooooooooooooooooMoooooooooooMooooooooooooooooHo
+                              ooMooooooooooooooMoooooooooooooooooooooooooooMoM
+                             MooMoooooooooooooo.ooooooooooooooooooooooooooo:oM
+                             MoooooooooooooooooooooooooooooooooooooooooooooooM
+                             MoooMooooooooooooooMooooooooooooooooooooooooooooo.
+                             MoooMooooooooooooooMoooooooooooooooooooooooooMooooM
+                             MooooooooooooooooooMoooooooooooooooooooooooooMoooooM
+                             MooooMoooooooooooooMoooooooooooooooooooooooooMoHooooM
+                             ooooooMooooooooooooooooooooooooooooooooooooooooMoMoooM
+                            MooooooooooooooooooooMooooooooooooooooooooooooooMoooooH:
+                            MoooooooMooooooooooooMoooooooooooooooooooooooooooooHoooM
+                            MooooooooMoooooooooooMoooooooooooooooooooooooooMoooMooooM
+                            Moooooooooooooooooooooooooooooooooooooooooooooo.oooMooooo
+                            MoooooooooooooooooooooooooooooooooooooooooooooMoooooooooM
+                             MooooooooooooooooooooMoooooooooooooooooooooooooooooooooM
+                              MooooooooooooooooooooMHooooooooooooooooooooMoooo:ooooo
+                               MMooooooooooooooooooMoMHoooooooooooooooooooooooMooooo
+                                MMoooooooooooooooMMooo MMooooooooooooooooooooooooooM
+                                MMMoooooooooooooMooooo  oooooooooooooooooooooMooooo
+                                MooMMoooooooooMoooMMoM  ooooHooooooooooooooooMooooM
+                                MooooMooooooMooooMoooM  MoooooMoooooooooooooMooooo
+                                ooooooMMooooooooMooooM  MoooooooooMooooooooooooooM
+                                HooooooMoooooooMooooM    HoooooooHooMooooooooooooo
+                                 oooMoooooooooHoooM         MoooooooooMoooooooooM
+                                  HooooooooooooHM             MooooooooMMoooooooM
+                                   MMMMMMMMMMMMMM                Moooooo:MooooHMM
+                                    MMMMMMM: ...                  MMMMMMMMMMMMMM
+                                   M............M                  MMMMMMMMM ....
+                                   M.MM..........                  M.............M
+                                M ..............MM                 M..............
+                             MMMMM............MMMM                 ..MMMMMMMM ....M
+                           MMMMMMMMMMMMMMMMMMMMMMMM               MMMMMMMMMMMMM...M
+                        .MMMMMMMMMMMMMMMMMMMMMMMMMM               MMMMMMMMMMMMMMMMMM
+                        MMMMMMMMMMMMMMMMMMMMMMMMM                MMMMMMMMMMMMMMMMMMM
+                        :MMMMMMMMMMMMMMMMMMH                     MMMMMMMMMMMMMMMMMMM
+                           By EBEN Jérôme                        MMMMMMMMMMMMMMMMMM
+                                                                 MMMMMMMMMMMMMMM
+                                                                  HMMMMMM
+```
+- [回到目录](#目录)
+
+---
+
 ### 动物
 
 #### 皮卡丘
@@ -251,6 +494,48 @@
 　 ヽ_ﾉ　　(_／　 │／／
 　　7　　　　　　　|／
 　　＞―r￣￣`ｰ―＿
+
+<!-- ############## -->
+
+        quu..__
+         $$$b  `---.__
+          "$$b        `--.                          ___.---uuudP
+           `$$b           `.__.------.__     __.---'      $$$$"              .
+             "$b          -'            `-.-'            $$$"              .'|
+               ".                                       d$"             _.'  |
+                 `.   /                              ..."             .'     |
+                   `./                           ..::-'            _.'       |
+                    /                         .:::-'            .-'         .'
+                   :                          ::''\          _.'            |
+                  .' .-.             .-.           `.      .'               |
+                  : /'$$|           .@"$\           `.   .'              _.-'
+                 .'|$u$$|          |$$,$$|           |  <            _.-'
+                 | `:$$:'          :$$$$$:           `.  `.       .-'
+                 :                  `"--'             |    `-.     \
+                :##.       ==             .###.       `.      `.    `\
+                |##:                      :###:        |        >     >
+                |#'     `..'`..'          `###'        x:      /     /
+                 \                                   xXX|     /    ./
+                  \                                xXXX'|    /   ./
+                  /`-.                                  `.  /   /
+                 :    `-  ...........,                   | /  .'
+                 |         ``:::::::'       .            |<    `.
+                 |             ```          |           x| \ `.:``.
+                 |                         .'    /'   xXX|  `:`M`M':.
+                 |    |                    ;    /:' xXXX'|  -'MMMMM:'
+                 `.  .'                   :    /:'       |-'MMMM.-'
+                  |  |                   .'   /'        .'MMM.-'
+                  `'`'                   :  ,'          |MMM<
+                    |                     `'            |tbap\
+                     \                                  :MM.-'
+                      \                 |              .''
+                       \.               `.            /
+                        /     .:::::::.. :           /
+                       |     .:::::::::::`.         /
+                       |   .:::------------\       /
+                      /   .''               >::'  /
+                      `',:                 :    .'
+                                           `:.:'
 ```
 - [回到目录](#目录)
 
@@ -319,6 +604,56 @@
 #          └─┐  ┐  ┌───────┬──┐  ┌──┘
 #            │ ─┤ ─┤       │ ─┤ ─┤
 #            └──┴──┘       └──┴──┘
+
+/***
+ *      ┌─┐       ┌─┐
+ *   ┌──┘ ┴───────┘ ┴──┐
+ *   │                 │
+ *   │       ───       │
+ *   │   >        <    │
+ *   │                 │
+ *   │   ...  ⌒  ...   │
+ *   │                 │
+ *   └───┐         ┌───┘
+ *       │         │
+ *       │         │
+ *       │         │
+ *       │         └──────────────┐
+ *       │                        │
+ *       │                        ├─┐
+ *       │                        ┌─┘
+ *       │                        │
+ *       └─┐  ┐  ┌───────┬──┐  ┌──┘
+ *         │ ─┤ ─┤       │ ─┤ ─┤
+ *         └──┴──┘       └──┴──┘
+ *                神兽保佑
+ *               代码无BUG!
+
+
+/***
+ *      ┌─┐       ┌─┐ + +
+ *   ┌──┘ ┴───────┘ ┴──┐++
+ *   │                 │
+ *   │       ───       │++ + + +
+ *   ███████───███████ │+
+ *   │                 │+
+ *   │       ─┴─       │
+ *   │                 │
+ *   └───┐         ┌───┘
+ *       │         │
+ *       │         │   + +
+ *       │         │
+ *       │         └──────────────┐
+ *       │                        │
+ *       │                        ├─┐
+ *       │                        ┌─┘
+ *       │                        │
+ *       └─┐  ┐  ┌───────┬──┐  ┌──┘  + + + +
+ *         │ ─┤ ─┤       │ ─┤ ─┤
+ *         └──┴──┘       └──┴──┘  + + + +
+ *                神兽保佑
+ *               代码无BUG!
+ */
 ```
 - [回到目录](#目录)
 
@@ -477,7 +812,75 @@
  * 
  */ 
 ```
+- [回到目录](#目录)
 
+---
+
+#### 马
+```
+                               _(\_/) 
+                             ,((((^`\
+                            ((((  (6 \ 
+                          ,((((( ,    \
+      ,,,_              ,(((((  /"._  ,`,
+     ((((\\ ,...       ,((((   /    `-.-'
+     )))  ;'    `"'"'""((((   (      
+    (((  /            (((      \
+     )) |                      |
+    ((  |        .       '     |
+    ))  \     _ '      `t   ,.')
+    (   |   y;- -,-""'"-.\   \/  
+    )   / ./  ) /         `\  \
+       |./   ( (           / /'
+       ||     \\          //'|
+       ||      \\       _//'||
+       ||       ))     |_/  ||
+       \_\     |_/          ||
+       `'"                  \_\
+                            `'" 
+```
+- [回到目录](#目录)
+
+---
+
+#### 狗
+```
+/***　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+ *　　　　　　　　　瓦瓦　　　　　　　　　　　　十　　　　　　　　　　　　　
+ *　　　　　　　　十齱龠己　　　　　　　　　亅瓦車己　　　　　　　　　　　　
+ *　　　　　　　　乙龍龠毋日丶　　　　　　丶乙己毋毋丶　　　　　　　　　　　
+ *　　　　　　　　十龠馬鬼車瓦　　　　　　己十瓦毋毋　　　　　　　　　　　　
+ *　　　　　　　　　鬼馬龠馬龠十　　　　己己毋車毋瓦　　　　　　　　　　　　
+ *　　　　　　　　　毋龠龠龍龠鬼乙丶丶乙車乙毋鬼車己　　　　　　　　　　　　
+ *　　　　　　　　　乙龠龍龍鬼龍瓦　十瓦毋乙瓦龠瓦亅　　　　　　　　　　　　
+ *　　　　　　　　　　馬齱龍馬鬼十丶日己己己毋車乙丶　　　　　　　　　　　　
+ *　　　　　　　　　　己齱馬鬼車十十毋日乙己己乙乙　　　　　　　　　　　　　
+ *　　　　　　　　　　　車馬齱齱日乙毋瓦己乙瓦日亅　　　　　　　　　　　　　
+ *　　　　　　　　　　　亅車齺龖瓦乙車龖龍乙乙十　　　　　　　　　　　　　　
+ *　　　　　　　　　　　　日龠龠十亅車龍毋十十　　　　　　　　　　　　　　　
+ *　　　　　　　　　　　　日毋己亅　己己十亅亅　　　　　　　　　　　　　　　
+ *　　　　　　　　　　　丶己十十乙　　丶丶丶丶丶　　　　　　　　　　　　　　
+ *　　　　　　　　　　　亅己十龍龖瓦　　丶　丶　乙十　　　　　　　　　　　　
+ *　　　　　　　　　　　亅己十龠龖毋　丶丶　　丶己鬼鬼瓦亅　　　　　　　　　
+ *　　　　　　　　　　　十日十十日亅丶亅丶　丶十日毋鬼馬馬車乙　　　　　　　
+ *　　　　　　　　　　　十日乙十亅亅亅丶　　十乙己毋鬼鬼鬼龍齺馬乙　　　　　
+ *　　　　　　　　　　　丶瓦己乙十十亅丶亅乙乙乙己毋鬼鬼鬼龍齱齺齺鬼十　　　
+ *　　　　　　　　　　　　乙乙十十十亅乙瓦瓦己日瓦毋鬼鬼龠齱齱龍龍齱齱毋丶　
+ *　　　　　　　　　　　　亅十十十十乙瓦車毋瓦瓦日車馬龠龍龍龍龍龍龠龠龠馬亅
+ *　　　　　　　　　　　　　十十十十己毋車瓦瓦瓦瓦鬼馬龠龍龠龠龍龠龠龠馬龠車
+ *　　　　　　　　　　　　　　亅十十日毋瓦日日瓦鬼鬼鬼龠龠馬馬龠龍龍龠馬馬車
+ *　　　　　　　　　　　　　　亅亅亅乙瓦瓦毋車車車馬龍龠鬼鬼馬龠龍龍龠馬馬鬼
+ *　　　　　　　　　　　　丶丶乙亅亅乙車鬼鬼鬼毋車龍龍龠鬼馬馬龠龍齱齱龍馬鬼
+ *　　　　　　　　　　　亅己十十己十日鬼鬼車瓦毋龠龍龠馬馬龠龠龠齱齺齺齱龠鬼
+ *　　　　　　　　　　　　亅乙乙乙十車馬車毋馬齱齱龍龠龠龠馬龠龍齱龍龠龠鬼瓦
+ *　　　　　　　　　　　　　　　　丶毋龠鬼車瓦車馬龠龍龠龠龍齱齱龠馬馬鬼毋日
+ *　　　　　　　　　　　　　　　　十乙己日十　　丶己鬼龍齱齺齱龍馬馬馬車毋己
+ *　　　　　　　　　　　　　　丶十己乙亅丶　　　　　　亅瓦馬龠龍龠龠馬毋瓦乙
+ *　　　　　　　　　　　　　丶十十乙亅十　　　　　　　　亅己瓦車馬龠鬼車瓦乙
+ *　　　　　　　　　　　　　丶十乙十十丶　　　　　　　　　丶丶亅十瓦鬼車瓦己
+ *　　　　　　　　　　　　　　丶亅亅丶　　　　　　　　　　　　　　　亅日瓦日
+ *　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　丶
+```
 - [回到目录](#目录)
 
 ---
@@ -604,7 +1007,50 @@
 #                   $               $
 #
 ```
+- [回到目录](#目录)
 
+---
+
+#### Windows
+```
+                         __
+                    ,-~¨^  ^¨-,           _,
+                   /          / ;^-._...,¨/
+                  /          / /         /
+                 /          / /         /
+                /          / /         /
+               /,.-:''-,_ / /         /
+               _,.-:--._ ^ ^:-._ __../
+             /^         / /¨:.._¨__.;
+            /          / /      ^  /
+           /          / /         /
+          /          / /         /
+         /_,.--:^-._/ /         /
+        ^            ^¨¨-.___.:^  (R)
+```
+- [回到目录](#目录)
+
+---
+
+#### 五环
+```
+              _.-"""""-._         _.-"""""-._         _.-"""""-._
+           ,'           `.     ,'           `.     ,'           `.
+          /               \   /               \   /               \
+         |                 | |                 | |                 |
+        |                   |                   |                   |
+        |                   |                   |                   |
+         |             _.-"|"|"-._         _.-"|"|"-._             |
+          \          ,'   /   \   `.     ,'   /   \   `.          /
+           `.       /   ,'     `.   \   /   ,'     `.   \       ,'
+             `-..__|..-'         `-..|_|..-'         `-..|__..-'
+                  |                   |                   |
+                  |                   |                   |
+                   |                 | |                 |
+                    \               /   \               /
+                     `.           ,'     `.           ,'
+                       `-..___..-'         `-..___..-'
+```
 - [回到目录](#目录)
 
 ---
@@ -724,6 +1170,21 @@
  *             8B;.,,,,,,,.,.....          .           ..   .:;;;;iirrsss111h
  *            i@5,:::,,,,,,,,.... .                   . .:::;;;;;irrrss111111
  *            9Bi,:,,,,......                        ..r91;;;;;iirrsss1ss1111
+ */
+
+/***
+ * ░░░░░░░░░░░░░░░░░░░░░░░░▄░░
+ * ░░░░░░░░░▐█░░░░░░░░░░░▄▀▒▌░
+ * ░░░░░░░░▐▀▒█░░░░░░░░▄▀▒▒▒▐
+ * ░░░░░░░▐▄▀▒▒▀▀▀▀▄▄▄▀▒▒▒▒▒▐
+ * ░░░░░▄▄▀▒░▒▒▒▒▒▒▒▒▒█▒▒▄█▒▐
+ * ░░░▄▀▒▒▒░░░▒▒▒░░░▒▒▒▀██▀▒▌
+ * ░░▐▒▒▒▄▄▒▒▒▒░░░▒▒▒▒▒▒▒▀▄▒▒
+ * ░░▌░░▌█▀▒▒▒▒▒▄▀█▄▒▒▒▒▒▒▒█▒▐
+ * ░▐░░░▒▒▒▒▒▒▒▒▌██▀▒▒░░░▒▒▒▀▄
+ * ░▌░▒▄██▄▒▒▒▒▒▒▒▒▒░░░░░░▒▒▒▒
+ * ▀▒▀▐▄█▄█▌▄░▀▒▒░░░░░░░░░░▒▒▒
+ * 单身狗就这样默默地看着你，一句话也不说。
  */
 ```
 
