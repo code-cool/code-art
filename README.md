@@ -1,9 +1,9 @@
 # awesome-art-text
 🌈 Collect beautiful art text, never bug. 收集好看的艺术代码，永无 Bug。
 
+![](https://visitor-badge.glitch.me/badge?page_id=awesome-magic.awesome-art-text)
 ![](https://img.shields.io/github/stars/awesome-magic/awesome-art-text?color=%23d4b106&style=flat-square)
 ![](https://img.shields.io/github/forks/awesome-magic/awesome-art-text?color=%23ff85c0&style=flat-square)
-![](http://hits.dwyl.com/awesome-magic/awesome-art-text.svg)
 ![](https://img.shields.io/github/issues-pr-raw/awesome-magic/awesome-art-text?color=%23d4380d&style=flat-square)
 ![](https://img.shields.io/github/last-commit/awesome-magic/awesome-art-text/master?color=orange&style=flat-square)
 ![](https://img.shields.io/github/license/awesome-magic/awesome-art-text?color=%23096dd9&style=flat-square)
