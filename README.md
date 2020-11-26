@@ -1,4 +1,5 @@
-# awesome-art-text
+# Awesome Art
+
 🌈 Collect beautiful art text, never bug. 收集好看的艺术代码，永无 Bug。
 
 ![](https://visitor-badge.glitch.me/badge?page_id=awesome-magic.awesome-art-text)
